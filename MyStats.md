@@ -16,3 +16,14 @@ The below table describes 4 different sports like Shuttle,chess,swimming and cri
 | Chess | For improving concentration | 9 |
 | swimming | For fitness | 10 |
 | cricket | For relaxing | 20 |
+
+---
+
+# Quotations
+
+```Attemp The impossible```-*coco chanel*
+```A girl should be two things who and want you wants```- *Beyonce*
+
+
+
+
