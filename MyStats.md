@@ -28,6 +28,7 @@ The below table describes 4 different sports like Shuttle,chess,swimming and cri
 
 ---
 
+# code Fencing
 ```Force SSL/https using .htaccess and mod_rewrite``` 
 <https://stackoverflow.com/questions/4398951/force-ssl-https-using-htaccess-and-mod-rewrite>
 
