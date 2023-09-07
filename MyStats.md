@@ -22,8 +22,21 @@ The below table describes 4 different sports like Shuttle,chess,swimming and cri
 # Quotations
 
 ```Attemp The impossible```-*coco chanel*
+
 ```A girl should be two things who and want you wants```- *Beyonce*
 
 
+---
+
+```Force SSL/https using .htaccess and mod_rewrite``` 
+<https://stackoverflow.com/questions/4398951/force-ssl-https-using-htaccess-and-mod-rewrite>
+
+```
+RewriteEngine on
+RewriteCond %{HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
+```
+
+Snipper link<https://css-tricks.com/snippets/htaccess/force-https/>
 
 
