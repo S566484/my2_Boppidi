@@ -14,4 +14,4 @@ And also we went to Trekking to the hill<br>
 * Dishes of vacation spot
     * Fish fry    
     * Chicken 65    
-    *Salads
+    * Salads
