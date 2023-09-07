@@ -15,4 +15,5 @@ And also we went to Trekking to the hill<br>
     * Chicken 65    
     * Salads
 
-[Sowmya]()
+[Sowmya Mystats](https://github.com/S566484/my2_Boppidi/blob/main/MyStats.md)
+
