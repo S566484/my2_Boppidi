@@ -6,8 +6,7 @@ I went to vacation to GOA with my friends and we **enjoyed a lot** , we had a Lo
 We played in the **water games** 
 And also we went to Trekking to the hill<br>
 
-# Activities
-***
+### Activities
 1. Singing
 2. Dancing
 3. Visiting new places
